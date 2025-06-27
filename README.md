@@ -7,4 +7,7 @@ A weather checking app that uses the OpenWeatherMap API to fetch real-time weath
 - Clean UI with instant results
 - Uses `fetch()` to consume public APIs
 
-(https://vivian-castelino.github.io/weather-app)
+## 🚀 Try It Out
+
+Open the project :
+[Weather app](https://vivian-castelino.github.io/weather-app)
